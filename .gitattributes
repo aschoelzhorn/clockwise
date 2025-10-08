@@ -1,3 +1,0 @@
-*.py -linguist-detectable
-firmware/** linguist-language=C++ linguist-detectable
-components/** linguist-vendored
